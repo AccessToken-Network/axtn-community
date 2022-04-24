@@ -1,4 +1,4 @@
-##COMMUNITY GUIDELINES
+## COMMUNITY GUIDELINES
 
 Welcome to the AccessToken community! This is a safe space to discuss about our projects.
 
