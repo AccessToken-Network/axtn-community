@@ -17,7 +17,7 @@ To help everyone enjoy our community, we ask that when you post, you keep in min
     Our community is a public place. Don’t post personal information that you would not be comfortable sharing with a stranger. We recommend that you don’t post any information that may identify you or anyone else, such as your address, email address or phone number.
     Employees participating in the discussion in our community are reminded of the staff social media guidelines.
 
-If you a question about a product or service of ours, please get in touch via our Github at https://github.com/AccessToken-Network.
+If you have a question about a product or service of ours, please get in touch via our Github at https://github.com/AccessToken-Network.
 
 If you’d like to chat with a customer service representative, please get in touch with us at: team@accesstoken.network
 
