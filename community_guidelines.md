@@ -22,4 +22,4 @@ If you have a question about a product or service of ours, please get in touch v
 If you’d like to chat with a customer service representative, please get in touch with us at: team@accesstoken.network
 
 -----
-*These guidelines may be updated from time to time. If you have specific comments, please bring them up in chat or via filing an issue.*
+*These guidelines may be updated from time to time. If you have specific comments, please bring them up in chat or via filing an issue .*
